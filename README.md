@@ -1,5 +1,6 @@
 # DB_project
-Developments for a database project based on postgreSQL + python(psycopg2)
+Developments for a database project based on postgreSQL + python(psycopg2).
+
 For the application to work correctly, install the following modules:
 
 pip install prettytable
